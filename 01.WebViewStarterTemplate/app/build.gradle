@@ -1,0 +1,44 @@
+plugins {
+        id 'com.android.application'
+        id 'kotlin-android'
+    }
+
+
+    android {
+        namespace 'com.webviewtemplate.webviewtemplate'
+        compileSdk 34
+
+        defaultConfig {
+            applicationId "com.webviewtemplate.webviewtemplate"
+            minSdk 19
+            targetSdk 34
+            versionCode 1
+            versionName "1.0.0"
+        }
+
+        buildTypes {
+            release {
+                minifyEnabled true
+                shrinkResources true
+                proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            }
+        }
+
+        buildFeatures {
+            viewBinding true
+        }
+
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_11
+            targetCompatibility JavaVersion.VERSION_11
+        }
+        kotlinOptions {
+            jvmTarget = JavaVersion.VERSION_11
+        }
+    }
+
+    dependencies {
+        implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+        implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
+        implementation 'androidx.webkit:webkit:1.9.0'
+    }
