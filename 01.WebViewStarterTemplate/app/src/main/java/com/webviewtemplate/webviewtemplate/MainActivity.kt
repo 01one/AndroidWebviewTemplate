@@ -12,7 +12,7 @@ class MainActivity : Activity() {
     // you can make offline application with local file
     //private val applicationUrl = "file:///android_asset/index.html"
     //or you can load url
-    private val applicationUrl ="https://purnorup.com/challenging-bricks"
+    private val applicationUrl ="https://www.programmerbee.com/"
     //private val applicationUrl = "https://www.wikipedia.org/"
     private lateinit var binding: ActivityMainBinding
     private lateinit var webView: WebView
