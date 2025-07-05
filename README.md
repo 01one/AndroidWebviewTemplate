@@ -4,10 +4,19 @@
 
 
 ## Upcoming Application
-### MyTextWriter
-A powerful instant text sharing tool, currently in closed testing. It will be available for everyone soon!
 
-🔗 **Source Code:** [https://github.com/MyTextWriter/android_app_mytextwriter.com](https://github.com/MyTextWriter/android_app_mytextwriter.com)
+---
 
-**Coming soon to Google Play:**  
-[https://play.google.com/store/apps/details?id=com.purnorup.mytextwriter](https://play.google.com/store/apps/details?id=com.purnorup.mytextwriter)
+
+## Upcoming Application: **MyTextWriter**
+
+**MyTextWriter** is a fast, minimal text-sharing tool — designed for instant, distraction-free writing and sharing.  
+Currently in **closed testing**, it will be publicly released soon!
+
+🔗 **Source Code:**  
+[https://github.com/MyTextWriter/android_app_mytextwriter.com](https://github.com/MyTextWriter/android_app_mytextwriter.com)
+
+🧪 **Join the Closed Testing Program Of this app And get early access:**  
+[https://docs.google.com/forms/d/e/1FAIpQLScE9IezeHvEWxDPJ7JSrU7qovfFx5HVlGpe5Cw-FpRsLO42_g/viewform](https://docs.google.com/forms/d/e/1FAIpQLScE9IezeHvEWxDPJ7JSrU7qovfFx5HVlGpe5Cw-FpRsLO42_g/viewform)
+
+---
