@@ -13,5 +13,5 @@
 **MyTextWriter** is a fast, minimal text-sharing tool — designed for instant, distraction-free writing and sharing.  
 Currently in **closed testing**, it will be publicly released soon!
 
-🔗 **Source Code:**  
+**Source Code:**  
 [https://github.com/MyTextWriter/android_app_mytextwriter.com](https://github.com/MyTextWriter/android_app_mytextwriter.com)
